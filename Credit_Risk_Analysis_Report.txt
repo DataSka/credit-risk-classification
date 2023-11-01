@@ -1,0 +1,11 @@
+The purpose of this analysis is to determine the if the predictions are accurate in determining healthy and high risk loans.
+
+The accuracy score is 95.20% showing the overall peformance of 95.20% which is very good.
+The percision is 1 meaning is is correct 100% of the time.
+The recall scores are very high, 0.99 for class 0 and  0.91 for class 1, showing high positive results.
+
+The random oversampler model improved the accuracy, precision, recall, and f1 scores, bringing all the results to 0.99 or 99% overall.
+The accuracy score improved to 99.45% so almost perfect overall performance.
+
+I reccommend this model becuase the regression model predicts healthy loans very well, the precision score is high.  
+The prediction of high risk loans also has a high precission and recall scores, showing accurate preditions almost every time.

@@ -15,3 +15,4 @@ AskBCS Learning Assistant
 
 https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html
 https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/
+https://builtin.com/data-science/precision-and-recall
